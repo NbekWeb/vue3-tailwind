@@ -5,10 +5,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        bisque: "#FFE4C4",
-        aqua: "#00FFFF",
-        btn: "#343a40",
-        title: "#9fccce",
+        cyan : '#D4F0F0',
+        purple :'#824DEB'
       },
       fontFamily: {
         IBM: ["IBM", "sans"],
